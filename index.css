@@ -33,14 +33,14 @@ header{
 	align-items: center;
 	justify-content: space-between;
 	background: transparent;
-	padding: 22px 5 100% 100%;
+	padding: 22px 16%;
 	border-bottom: 1px solid transparent;
 	transition: all .40s ease;
 }
-/* .logo img{
+.logo img{
 	width: 135px;
 	height: auto;
-} */
+}
 .navbar{
 	display: flex;
 }
